@@ -16,7 +16,7 @@ function LandingPage() {
       <img
         src="src\assets\img\xkvu3zljobch1v2vxocw.webp"
         alt=""
-        className="rounded-lg 2xl:max-w-[90rem] lg:max-w-[60rem] md:max-w-[47.5rem] w-full md:mx-auto mt-12 md:shadow-2xl"
+        className="rounded-lg 2xl:max-w-[90rem] lg:max-w-[60rem] md:max-w-[47.5rem] w-full md:mx-auto md:mt-12 mt-8 md:shadow-2xl"
       />
 
       <div className="flex flex-col 2xl:max-w-[90rem] lg:max-w-[60rem] md:max-w-[47.5rem] w-full md:mx-auto md:mt-12 mt-8">
