@@ -1,0 +1,131 @@
+{
+  "games": [
+    {
+      "title": "Mobile Legends",
+      "publisher": "Moonton",
+      "img": "src/assets/img/games/zbesf2fit6qz3s6tkbf3.webp"
+    },
+    {
+      "title": "Honor of Kings",
+      "publisher": "TiMi Studio Group",
+      "img": "src/assets/img/games/r6ciulmfthanwh4ddphk.webp"
+    },
+    {
+      "title": "Free Fire",
+      "publisher": "Garena",
+      "img": "src/assets/img/games/u4zwbudshyrqyrdlhho8.webp"
+    },
+    {
+      "title": "PUBG Indonesia",
+      "publisher": "Tencet",
+      "img": "src/assets/img/games/zxcx9ubjyxtomdssater.webp"
+    },
+    {
+      "title": "Call of Duty Mobile",
+      "publisher": "Tencent",
+      "img": "src/assets/img/games/kl5qqxvfpuxen31fjgua.webp"
+    },
+    {
+      "title": "Valorant",
+      "publisher": "Riot",
+      "img": "src/assets/img/games/hrpqnkzcolzzdbh4stzf.webp"
+    },
+    {
+      "title": "Genshin Impact",
+      "publisher": "Mihoyo",
+      "img": "src/assets/img/games/zbesf2fit6qz3s6tkbf3.webp"
+    },
+    {
+      "title": "Honkai Star Rail",
+      "publisher": "Mihoyo",
+      "img": "src/assets/img/games/r6ciulmfthanwh4ddphk.webp"
+    },
+    {
+      "title": "Honkai Impact 3",
+      "publisher": "Garena",
+      "img": "src/assets/img/games/u4zwbudshyrqyrdlhho8.webp"
+    },
+    {
+      "title": "Zenless Zone Zero",
+      "publisher": "Mihoyo",
+      "img": "src/assets/img/games/zxcx9ubjyxtomdssater.webp"
+    },
+    {
+      "title": "Undawn",
+      "publisher": "Garena",
+      "img": "src/assets/img/games/kl5qqxvfpuxen31fjgua.webp"
+    },
+    {
+      "title": "Clash of Clans",
+      "publisher": "Supercell",
+      "img": "src/assets/img/games/hrpqnkzcolzzdbh4stzf.webp"
+    },
+    {
+      "title": "League of Legends",
+      "publisher": "Riot",
+      "img": "src/assets/img/games/kl5qqxvfpuxen31fjgua.webp"
+    },
+    {
+      "title": "Metal Slug: Awakening",
+      "publisher": "TiMi Studio Group",
+      "img": "src/assets/img/games/zxcx9ubjyxtomdssater.webp"
+    },
+    {
+      "title": "Arena of Valor",
+      "publisher": "Garena",
+      "img": "src/assets/img/games/zbesf2fit6qz3s6tkbf3.webp"
+    },
+    {
+      "title": "Zepeto",
+      "publisher": "Zepeto",
+      "img": "src/assets/img/games/r6ciulmfthanwh4ddphk.webp"
+    },
+    {
+      "title": "Eggy Party",
+      "publisher": "Eggy Party",
+      "img": "src/assets/img/games/u4zwbudshyrqyrdlhho8.webp"
+    },
+    {
+      "title": "Super Sus",
+      "publisher": "PI Productions Pte. Ltd",
+      "img": "src/assets/img/games/zxcx9ubjyxtomdssater.webp"
+    },
+    {
+      "title": "Black Clover Mobile",
+      "publisher": "Black Crystal",
+      "img": "src/assets/img/games/kl5qqxvfpuxen31fjgua.webp"
+    },
+    {
+      "title": "Cabal: Infinite Combo Sea",
+      "publisher": "EST Games",
+      "img": "src/assets/img/games/hrpqnkzcolzzdbh4stzf.webp"
+    }
+  ],
+  "voucher": [
+    { "title": "Point Blank Voucher", "publisher": "PB", "img": "" },
+    { "title": "Voucher Roblox/Robux", "publisher": "Roblox", "img": "" },
+    { "title": "Dana", "publisher": "Dana", "img": "" },
+    { "title": "Voucher Google Play", "publisher": "Google", "img": "" },
+    { "title": "Steam Wallet Code", "publisher": "Steam", "img": "" },
+    {
+      "title": "Audition AyoDance",
+      "publisher": "Megaxus Infotech",
+      "img": ""
+    },
+    {
+      "title": "Playstation Store Gift Card",
+      "publisher": "Playstation",
+      "img": ""
+    },
+    { "title": "GoPay", "publisher": "GoTo", "img": "" }
+  ],
+  "pulsa": [
+    { "title": "Pulsa Telkomsel", "publisher": "Tsel", "img": "" },
+    { "title": "Pulsa Indosat Ooredoo", "publisher": "Indosat", "img": "" },
+    { "title": "Pulsa XL Axiata", "publisher": "XL", "img": "" },
+    { "title": "Pulsa Three/Tri", "publisher": "Three", "img": "" },
+    { "title": "Pulsa Axis", "publisher": "Axis", "img": "" },
+    { "title": "Smartfren", "publisher": "Smartfren Pulsa", "img": "" },
+    { "title": "Token Listrik PLN", "publisher": "Proses Kilat", "img": "" }
+  ]
+}
