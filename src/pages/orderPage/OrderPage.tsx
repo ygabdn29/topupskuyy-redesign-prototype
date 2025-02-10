@@ -172,7 +172,7 @@ function OrderPage() {
               <h3 className="bg-[#ced0d5] font-semibold text-lg rounded-t-md py-2 px-4">
                 QRIS
               </h3>
-              <div className="bg-[#b6b8bf] flex  flex-warp gap-4 rounded-b-md py-4 px-8">
+              <div className="bg-[#b6b8bf] flex  flex-warp gap-4 rounded-b-md py-4 md:px-8 px-4">
                 <div className="transition-all duration-300 bg-[#ddfbd2] p-4 rounded-lg cursor-pointer hover:bg-[#9bb093] hover:scale-95 w-fit">
                   <p className="font-semibold md:text-lg sm:text-base">
                     Metode Pembayaran X
@@ -187,7 +187,7 @@ function OrderPage() {
               <h3 className="bg-[#ced0d5] font-semibold text-lg rounded-t-md py-2 px-4">
                 Convenince Store
               </h3>
-              <div className="bg-[#b6b8bf] flex flex-wrap gap-4 rounded-b-md py-4 px-8">
+              <div className="bg-[#b6b8bf] flex flex-wrap gap-4 rounded-b-md py-4 md:px-8 px-4">
                 <div className="transition-all duration-300 bg-[#ddfbd2] p-4 rounded-lg cursor-pointer hover:bg-[#9bb093] hover:scale-95 w-fit">
                   <p className="font-semibold md:text-lg sm:text-base">
                     Metode Pembayaran X
@@ -202,7 +202,7 @@ function OrderPage() {
               <h3 className="bg-[#ced0d5] font-semibold text-lg rounded-t-md py-2 px-4">
                 E-Wallet
               </h3>
-              <div className="bg-[#b6b8bf] flex flex-wrap gap-4 rounded-b-md py-4 px-8">
+              <div className="bg-[#b6b8bf] flex flex-wrap gap-4 rounded-b-md py-4 md:px-8 px-4">
                 <div className="transition-all duration-300 bg-[#ddfbd2] p-4 rounded-lg cursor-pointer hover:bg-[#9bb093] hover:scale-95 w-fit">
                   <p className="font-semibold md:text-lg sm:text-base">
                     Metode Pembayaran X
@@ -233,7 +233,7 @@ function OrderPage() {
               <h3 className="bg-[#ced0d5] font-semibold text-lg rounded-t-md py-2 px-4">
                 Bank
               </h3>
-              <div className="bg-[#b6b8bf] flex flex-wrap gap-4 rounded-b-md py-4 px-8 mb-4">
+              <div className="bg-[#b6b8bf] flex flex-wrap gap-4 rounded-b-md py-4 md:px-8 px-4 mb-4">
                 <div className="transition-all duration-300 bg-[#ddfbd2] p-4 rounded-lg cursor-pointer hover:bg-[#9bb093] hover:scale-95 w-fit">
                   <p className="font-semibold md:text-lg sm:text-base">
                     Metode Pembayaran X
