@@ -17,7 +17,7 @@ function Navbar() {
       <nav className="md:static relative flex lg:flex-row justify-between bg-[#446DF6] md:py-4 md:px-12 md:rounded-lg">
         <Link to="/">
           <img
-            src="../assets/img/idbgcaz9s8w7smf8lemg.webp"
+            src="./assets/img/idbgcaz9s8w7smf8lemg.webp"
             alt=""
             className="w-16 h-16 transition-all duration-300 md:hover:scale-125"
           />
@@ -49,8 +49,8 @@ function Navbar() {
           <img
             src={
               navToggle
-                ? "src/assets/img/icon-close.svg"
-                : "src/assets/img/icon-hamburger.svg"
+                ? "./assets/img/icon-close.svg"
+                : "./assets/img/icon-hamburger.svg"
             }
             alt=""
           />

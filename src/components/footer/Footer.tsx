@@ -7,7 +7,7 @@ function Footer() {
         <div className="md:block flex flex-col">
           <Link to="/" className="md:justify-items-start justify-items-center">
             <img
-              src="../assets/img/idbgcaz9s8w7smf8lemg.webp"
+              src="./assets/img/idbgcaz9s8w7smf8lemg.webp"
               alt=""
               className="w-24 h-24 transition-all duration-300 md:hover:scale-125"
             />
@@ -17,7 +17,7 @@ function Footer() {
             <li>
               <a href="" className="">
                 <img
-                  src="src\assets\img\ig-logo.png"
+                  src="./assets/img/ig-logo.png"
                   alt=""
                   className="transition-all duration-300 w-8 hover:scale-95 hover:opacity-70"
                 />

@@ -4,7 +4,7 @@ function OrderPage() {
       <div className="bg-[#e7e7ea] flex flex-col gap-8 py-8 px-12 rounded-md shadow-xl h-fit">
         <div className="flex flex-col text-center">
           <img
-            src="src/assets/img/games/zbesf2fit6qz3s6tkbf3.webp"
+            src="./assets/img/games/zbesf2fit6qz3s6tkbf3.webp"
             alt=""
             className="md:w-[20rem] rounded-lg shadow-lg mb-4 md:mx-auto"
           />
