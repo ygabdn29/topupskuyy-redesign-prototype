@@ -1,15 +1,17 @@
+import { Link } from "react-router-dom";
+
 function Footer() {
   return (
     <footer className="bg-[#090f22] text-[#ECECEC] mt-20">
       <div className="grid md:grid-cols-3 justify-center  2xl:max-w-[90rem] lg:max-w-[60rem] md:max-w-[47.5rem] w-full md:mx-auto mt-12 mb-4">
         <div className="md:block flex flex-col">
-          <a href="" className="md:justify-items-start justify-items-center">
+          <Link to="/" className="md:justify-items-start justify-items-center">
             <img
-              src="src\assets\img\idbgcaz9s8w7smf8lemg.webp"
+              src="../assets/img/idbgcaz9s8w7smf8lemg.webp"
               alt=""
               className="w-24 h-24 transition-all duration-300 md:hover:scale-125"
             />
-          </a>
+          </Link>
           <h2 className="md:text-start text-center text-xl ">Topupskuyy</h2>
           <ul className="md:justify-items-start justify-items-center mt-4">
             <li>

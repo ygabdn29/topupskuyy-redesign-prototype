@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 const navStyleBase =
   "transition-all duration-300 md:static  md:flex md:gap-4 align-middle font-medium md:flex-row flex-col text-center right-[50%] top-[120%] md:translate-x-0  md:bg-none md:w-fit  md:p-0  md:rounded-none  md:shadow-none ";
@@ -14,13 +15,13 @@ function Navbar() {
   return (
     <header className="text-lg text-[#ECECEC] 2xl:max-w-[90rem] lg:max-w-[60rem] md:max-w-[47.5rem] w-full md:mx-auto mt-8 md:shadow-lg">
       <nav className="md:static relative flex lg:flex-row justify-between bg-[#446DF6] md:py-4 md:px-12 md:rounded-lg">
-        <a href="">
+        <Link to="/">
           <img
-            src="src\assets\img\idbgcaz9s8w7smf8lemg.webp"
+            src="../assets/img/idbgcaz9s8w7smf8lemg.webp"
             alt=""
             className="w-16 h-16 transition-all duration-300 md:hover:scale-125"
           />
-        </a>
+        </Link>
 
         <ul className={`${navStyleBase} ${navStyleMobile}`}>
           <li className="flex md:mb-0 mb-8">
